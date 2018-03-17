@@ -1,0 +1,22 @@
+{
+  "name": "lambda-office-rest",
+  "version": "1.0.0",
+  "description": "Lambda module to call office rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchoi926/Lambda-Office-Rest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchoi926/Lambda-Office-Rest/issues"
+  },
+  "homepage": "https://github.com/jchoi926/Lambda-Office-Rest#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
+}
